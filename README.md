@@ -1,2 +1,2 @@
 # ASSIGNMENT-2-
-ASSIGNMENT 2: Module 3: Control Structures in Python
+# Python Basics: Even/Odd Checker & Sum Calculator (1-50)
